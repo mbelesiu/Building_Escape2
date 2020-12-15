@@ -894,3 +894,126 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.15-18.12.08:119][464]LogContentValidation: Display: Validating Material /Game/Models/Brass.Brass
 [2020.12.15-18.12.08:119][464]LogContentValidation: Display: Validating Material /Game/Models/Wood.Wood
 [2020.12.15-18.12.08:119][464]LogContentValidation: Display: Validating StaticMesh /Game/Models/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door
+[2020.12.15-18.14.50:622][310]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2020.12.15-18.14.50:863][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\stone_wall_ti2nagocw\ti2nagocw_8K_Albedo.jpg)
+[2020.12.15-18.14.52:496][310]LogTexture: Display: Building textures: Albedo_8K_ti2nagocw (AutoDXT, 8192X8192)
+[2020.12.15-18.15.02:958][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\stone_wall_ti2nagocw\ti2nagocw_8K_Displacement.exr)
+[2020.12.15-18.15.05:121][310]LogTexture: Display: Building textures: Displacement_8K_ti2nagocw (RGBA16F, 8192X8192)
+[2020.12.15-18.15.08:317][310]LogTexture: Display: Building textures: Displacement_8K_ti2nagocw (BC4, 8192X8192)
+[2020.12.15-18.15.10:020][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\stone_wall_ti2nagocw\ti2nagocw_8K_Normal.jpg)
+[2020.12.15-18.15.12:065][310]LogTexture: Display: Building textures: Normal_8K_ti2nagocw (BC5, 8192X8192)
+[2020.12.15-18.15.13:634][310]LogTexture: Display: Building textures: Normal_8K_ti2nagocw (BC5, 8192X8192)
+[2020.12.15-18.15.15:079][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\stone_wall_ti2nagocw\ti2nagocw_8K_Roughness.jpg)
+[2020.12.15-18.15.15:953][310]LogTexture: Display: Building textures: Roughness_8K_ti2nagocw (AutoDXT, 8192X8192)
+[2020.12.15-18.15.17:917][310]LogTexture: Display: Building textures: Roughness_8K_ti2nagocw (BC4, 8192X8192)
+[2020.12.15-18.15.18:924][310]LogSavePackage: Moving '../../../../../../Users/mattb/unreal_projects/Building_Escape2/Building_Escape2/Saved/Fort_Stone_Wall_2x2_M_ti2nagocw_329A2F404D60AA45D39945A6AA786B43.tmp' to '../../../../../../Users/mattb/unreal_projects/Building_Escape2/Building_Escape2/Content/Megascans/Surfaces/Fort_Stone_Wall_2x2_M_ti2nagocw_surface/Fort_Stone_Wall_2x2_M_ti2nagocw_surface_inst.uasset'
+[2020.12.15-18.15.18:987][310]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2020.12.15-18.15.19:122][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\stone_wall_uk3jbeqo\uk3jbeqo_8K_Albedo.jpg)
+[2020.12.15-18.15.20:512][310]LogTexture: Display: Building textures: Albedo_8K_uk3jbeqo (AutoDXT, 8192X8192)
+[2020.12.15-18.15.29:600][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\stone_wall_uk3jbeqo\uk3jbeqo_8K_Displacement.exr)
+[2020.12.15-18.15.31:725][310]LogTexture: Display: Building textures: Displacement_8K_uk3jbeqo (RGBA16F, 8192X8192)
+[2020.12.15-18.15.35:002][310]LogTexture: Display: Building textures: Displacement_8K_uk3jbeqo (BC4, 8192X8192)
+[2020.12.15-18.15.36:670][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\stone_wall_uk3jbeqo\uk3jbeqo_8K_Normal.jpg)
+[2020.12.15-18.15.38:429][310]LogTexture: Display: Building textures: Normal_8K_uk3jbeqo (BC5, 8192X8192)
+[2020.12.15-18.15.40:011][310]LogTexture: Display: Building textures: Normal_8K_uk3jbeqo (BC5, 8192X8192)
+[2020.12.15-18.15.41:472][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\stone_wall_uk3jbeqo\uk3jbeqo_8K_Roughness.jpg)
+[2020.12.15-18.15.42:374][310]LogTexture: Display: Building textures: Roughness_8K_uk3jbeqo (AutoDXT, 8192X8192)
+[2020.12.15-18.15.45:572][310]LogTexture: Display: Building textures: Roughness_8K_uk3jbeqo (BC4, 8192X8192)
+[2020.12.15-18.15.46:633][310]LogSavePackage: Moving '../../../../../../Users/mattb/unreal_projects/Building_Escape2/Building_Escape2/Saved/Stone_Wall_2x2_M_uk3jbeqo_surfac1599C01546AFA4D5D28E00AC0E424D46.tmp' to '../../../../../../Users/mattb/unreal_projects/Building_Escape2/Building_Escape2/Content/Megascans/Surfaces/Stone_Wall_2x2_M_uk3jbeqo_surface/Stone_Wall_2x2_M_uk3jbeqo_surface_inst.uasset'
+[2020.12.15-18.15.46:692][310]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2020.12.15-18.15.46:814][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\wood_log_udlmecoew\udlmecoew_8K_Albedo.jpg)
+[2020.12.15-18.15.47:670][310]LogTexture: Display: Building textures: Albedo_8K_udlmecoew (AutoDXT, 8192X4096)
+[2020.12.15-18.15.52:762][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\wood_log_udlmecoew\udlmecoew_8K_Displacement.exr)
+[2020.12.15-18.15.53:843][310]LogTexture: Display: Building textures: Displacement_8K_udlmecoew (RGBA16F, 8192X4096)
+[2020.12.15-18.15.55:503][310]LogTexture: Display: Building textures: Displacement_8K_udlmecoew (BC4, 8192X4096)
+[2020.12.15-18.15.56:389][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\wood_log_udlmecoew\udlmecoew_8K_Normal.jpg)
+[2020.12.15-18.15.57:669][310]LogTexture: Display: Building textures: Normal_8K_udlmecoew (BC5, 8192X4096)
+[2020.12.15-18.15.58:672][310]LogTexture: Display: Building textures: Normal_8K_udlmecoew (BC5, 8192X4096)
+[2020.12.15-18.15.59:448][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\wood_log_udlmecoew\udlmecoew_8K_Roughness.jpg)
+[2020.12.15-18.15.59:887][310]LogTexture: Display: Building textures: Roughness_8K_udlmecoew (AutoDXT, 8192X4096)
+[2020.12.15-18.16.01:300][310]LogTexture: Display: Building textures: Roughness_8K_udlmecoew (BC4, 8192X4096)
+[2020.12.15-18.16.01:844][310]LogSavePackage: Moving '../../../../../../Users/mattb/unreal_projects/Building_Escape2/Building_Escape2/Saved/Wooden_Log_Wall_2x1_M_udlmecoew_8EFBFB5648C1C15286EA4C85F53D2F7C.tmp' to '../../../../../../Users/mattb/unreal_projects/Building_Escape2/Building_Escape2/Content/Megascans/Surfaces/Wooden_Log_Wall_2x1_M_udlmecoew_surface/Wooden_Log_Wall_2x1_M_udlmecoew_surface_inst.uasset'
+[2020.12.15-18.16.01:928][311]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.15-18.16.01:928][311]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Fort_Stone_Wall_2x2_M_ti2nagocw_surface/Fort_Stone_Wall_2x2_M_ti2nagocw_surface_inst.Fort_Stone_Wall_2x2_M_ti2nagocw_surface_inst
+[2020.12.15-18.16.01:928][311]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Stone_Wall_2x2_M_uk3jbeqo_surface/Stone_Wall_2x2_M_uk3jbeqo_surface_inst.Stone_Wall_2x2_M_uk3jbeqo_surface_inst
+[2020.12.15-18.16.01:928][311]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Wooden_Log_Wall_2x1_M_udlmecoew_surface/Wooden_Log_Wall_2x1_M_udlmecoew_surface_inst.Wooden_Log_Wall_2x1_M_udlmecoew_surface_inst
+[2020.12.15-18.16.35:833][943]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2020.12.15-18.16.35:952][943]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\surface_metal_tg1vfhoaw\tg1vfhoaw_8K_Albedo.jpg)
+[2020.12.15-18.16.37:186][943]LogTexture: Display: Building textures: Albedo_8K_tg1vfhoaw (AutoDXT, 8192X8192)
+[2020.12.15-18.16.43:312][943]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\surface_metal_tg1vfhoaw\tg1vfhoaw_8K_Displacement.exr)
+[2020.12.15-18.16.44:662][943]LogTexture: Display: Building textures: Displacement_8K_tg1vfhoaw (RGBA16F, 8192X8192)
+[2020.12.15-18.16.47:973][943]LogTexture: Display: Building textures: Displacement_8K_tg1vfhoaw (BC4, 8192X8192)
+[2020.12.15-18.16.49:635][943]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\surface_metal_tg1vfhoaw\tg1vfhoaw_8K_Normal.jpg)
+[2020.12.15-18.16.50:993][943]LogTexture: Display: Building textures: Normal_8K_tg1vfhoaw (BC5, 8192X8192)
+[2020.12.15-18.16.52:537][943]LogTexture: Display: Building textures: Normal_8K_tg1vfhoaw (BC5, 8192X8192)
+[2020.12.15-18.16.53:976][943]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloaded\surface\surface_metal_tg1vfhoaw\tg1vfhoaw_8K_Roughness.jpg)
+[2020.12.15-18.16.54:871][943]LogTexture: Display: Building textures: Roughness_8K_tg1vfhoaw (AutoDXT, 8192X8192)
+[2020.12.15-18.16.59:375][943]LogTexture: Display: Building textures: Roughness_8K_tg1vfhoaw (BC4, 8192X8192)
+[2020.12.15-18.17.00:443][943]LogSavePackage: Moving '../../../../../../Users/mattb/unreal_projects/Building_Escape2/Building_Escape2/Saved/Forged_Metal_tg1vfhoaw_surface_iACD8AC4940296CF948DD7E988ED4ABFB.tmp' to '../../../../../../Users/mattb/unreal_projects/Building_Escape2/Building_Escape2/Content/Megascans/Surfaces/Forged_Metal_tg1vfhoaw_surface/Forged_Metal_tg1vfhoaw_surface_inst.uasset'
+[2020.12.15-18.17.00:514][944]AssetCheck: New page: Asset Save: Forged_Metal_tg1vfhoaw_surface_inst
+[2020.12.15-18.17.00:514][944]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Forged_Metal_tg1vfhoaw_surface/Forged_Metal_tg1vfhoaw_surface_inst.Forged_Metal_tg1vfhoaw_surface_inst
+[2020.12.15-18.17.34:815][857]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Forged_Metal_tg1vfhoaw_surface/Forged_Metal_tg1vfhoaw_surface_inst.Forged_Metal_tg1vfhoaw_surface_inst
+[2020.12.15-18.17.34:818][857]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 3 classes and 0 folders.
+[2020.12.15-18.17.35:283][857]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:1).
+[2020.12.15-18.17.47:797][300]LogSlate: Window 'Forged_Metal_tg1vfhoaw_surface_inst' being destroyed
+[2020.12.15-18.17.47:850][300]LogSlate: Window 'Forged_Metal_tg1vfhoaw_surface_inst' being destroyed
+[2020.12.15-18.17.47:877][300]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-18.17.47:877][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-18.18.13:281][193]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 34
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 31
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2020.12.15-18.18.13:324][194]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.12.15-18.18.13:326][194]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.12.15-18.18.13:349][195]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.12.15-18.18.13:376][196]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.12.15-18.18.13:869][241]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 38
+[2020.12.15-18.18.14:308][282]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 34
+[2020.12.15-18.18.14:410][290]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 31
+[2020.12.15-18.18.14:535][299]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 28
+[2020.12.15-18.18.14:560][301]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.12.15-18.18.14:571][302]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 22
+[2020.12.15-18.18.14:631][307]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2020.12.15-18.18.14:711][314]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2020.12.15-18.18.14:729][316]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2020.12.15-18.18.14:851][326]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2020.12.15-18.18.14:925][331]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2020.12.15-18.18.14:952][334]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2020.12.15-18.18.15:118][347]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.12.15-18.18.15:273][359]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2020.12.15-18.18.15:298][360]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2020.12.15-18.18.15:367][366]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2020.12.15-18.18.15:426][371]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2020.12.15-18.18.15:476][375]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.12.15-18.18.15:536][380]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2020.12.15-18.18.15:614][387]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.12.15-18.18.15:622][388]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.12.15-18.18.30:537][115]LogMaterial: Display: Material /Game/Models/Broken_Concrete.Broken_Concrete needed to have new flag set bUsedWithStaticLighting !
+[2020.12.15-18.18.30:538][115]LogMaterial: Display: Missing cached shader map for material Broken_Concrete, compiling. 
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.12.15-18.18.30:564][116]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.12.15-18.18.35:631][715]Cmd: TRANSACTION UNDO
+[2020.12.15-18.18.35:631][715]LogEditorTransaction: Undo Create Actors
+[2020.12.15-18.19.31:671][816]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2020.12.15-18.19.31:672][816]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2020.12.15-18.19.32:819][951]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2020.12.15-18.19.32:831][951]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2020.12.15-18.19.38:276][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.15-18.19.39:046][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
