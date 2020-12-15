@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Building_Escape2",
+			"Path": "C:\\Users\\mattb\\unreal_projects\\Building_Escape2\\Building_Escape2\\Source\\Building_Escape2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Building_Escape2Editor",
+			"Path": "C:\\Users\\mattb\\unreal_projects\\Building_Escape2\\Building_Escape2\\Source\\Building_Escape2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

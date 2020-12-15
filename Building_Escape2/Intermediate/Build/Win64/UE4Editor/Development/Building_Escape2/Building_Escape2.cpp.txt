@@ -1,0 +1,2 @@
+C:\Users\mattb\unreal_projects\Building_Escape2\Building_Escape2\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape2\Definitions.Building_Escape2.h
+C:\Users\mattb\unreal_projects\Building_Escape2\Building_Escape2\Source\Building_Escape2\Building_Escape2.h
