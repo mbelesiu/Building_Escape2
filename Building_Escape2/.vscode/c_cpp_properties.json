@@ -1,9 +1,12 @@
 {
-	"configurations": [
-		{
-			"name": "Building_Escape2Editor Editor Win64 Development (Building_Escape2)",
-			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "C:\\Users\\mattb\\unreal_projects\\Building_Escape2\\Building_Escape2\\.vscode\\compileCommands_Building_Escape2.json"
-		}
-	]
+    "configurations": [
+        {
+            "name": "Building_Escape2Editor Editor Win64 Development (Building_Escape2)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\mattb\\unreal_projects\\Building_Escape2\\Building_Escape2\\.vscode\\compileCommands_Building_Escape2.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
 }

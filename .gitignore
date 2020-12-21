@@ -72,3 +72,4 @@ Building_Escape2/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Building_Escape2/DerivedDataCache/*
+Building_Escape2/Content/Megascans/*
